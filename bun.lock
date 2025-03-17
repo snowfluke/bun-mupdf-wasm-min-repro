@@ -4,7 +4,7 @@
     "": {
       "name": "bun-mupdf-wasm-min-repro",
       "dependencies": {
-        "mupdf": "^1.3.3",
+        "mupdf": "^1.3.4",
       },
       "devDependencies": {
         "@types/bun": "latest",
@@ -23,7 +23,7 @@
 
     "bun-types": ["bun-types@1.2.5", "", { "dependencies": { "@types/node": "*", "@types/ws": "~8.5.10" } }, "sha512-3oO6LVGGRRKI4kHINx5PIdIgnLRb7l/SprhzqXapmoYkFl5m4j6EvALvbDVuuBFaamB46Ap6HCUxIXNLCGy+tg=="],
 
-    "mupdf": ["mupdf@1.3.3", "", {}, "sha512-uS/uqQZ1+3zSkaL5ngauT98o5gIIRtQPW54vYTVlqBYS0tho9TrjHr0RmAUJlp/XTJyghNhDUjD7l++EZkMyyA=="],
+    "mupdf": ["mupdf@1.3.4", "", {}, "sha512-SHguI2uZlBLL2njRylBB8K3MjCfJd7BWym6uUQL+GOk300CCSLIsmxt7DOIKs7EKOkXhQvEFEW2UiW2SV/ufDg=="],
 
     "typescript": ["typescript@5.8.2", "", { "bin": { "tsc": "bin/tsc", "tsserver": "bin/tsserver" } }, "sha512-aJn6wq13/afZp/jT9QZmwEjDqqvSGp1VT5GVg+f/t6/oVyrgXM6BY1h9BRh/O5p3PlUPAe+WuiEZOmb/49RqoQ=="],
 

@@ -12,6 +12,6 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "mupdf": "^1.3.3"
+    "mupdf": "^1.3.4"
   }
 }
