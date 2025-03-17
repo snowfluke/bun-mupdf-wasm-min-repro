@@ -1,3 +1,9 @@
+globalThis.$libmupdf_wasm_Module = {
+  locateFile(path: string) {
+    return "./node_modules/mupdf/dist/" + path;
+  },
+};
+
 const mupdf = await import("mupdf/mupdfjs");
 
 const file = Bun.file("./dummy.pdf");
